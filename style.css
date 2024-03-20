@@ -1,0 +1,39 @@
+.teorema {
+    border-style: double;
+    margin: 10px;
+    padding: 10px;
+}
+.titulo1 {
+    color: rgb(255, 0, 0);
+}
+.equacao2 {
+    border-style: double;
+    margin: 10px;
+    padding: 10px;
+}
+.titulo2 {
+    color: red;
+}
+
+.potencia {
+    border-style: double;
+    margin: 10px;
+    padding: 10px;
+}
+.img1{
+    height: 400px;
+    width: 800px;
+}
+
+.img2{ 
+    height: 400px;
+    width: 800px;
+}
+.titulo3{
+    color: red;
+}
+.ofc {
+    color: rgb(28, 37, 163);
+    border-style: solid;
+    border-color: black;
+}
